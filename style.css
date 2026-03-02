@@ -82,7 +82,7 @@
             left: 0px;
             z-index: 10;
             width: auto;
-            height: 35px; /* Adjust logo size */
+            height: 40px; /* Adjust logo size */
             max-width: 25%; /* Prevent logo from being too huge on mobile */
             object-fit: contain;
 
@@ -95,7 +95,7 @@
       width: 100%;
       color: #fff;
      background: blue;
-      font-size: 23px;
+      font-size: 30px;
     font-weight: bold;
      z-index: 8;
 
@@ -106,7 +106,7 @@
             background-color: red;
             width: 120px;
             
-            height: 35px;
+            height: 40px;
     position:absolute;
      z-index: 11;
   right:0px;
