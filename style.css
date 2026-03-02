@@ -120,7 +120,7 @@ justify-content: center;
         
         #display {
             color: white;
-    font-size: 25px;
+    font-size: 20px;
             font-weight: bold;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
             opacity: 1;
@@ -237,7 +237,7 @@ justify-content: center;
         
         #display {
             color: white;
-    font-size: 10px;
+    font-size: 5px;
             font-weight: bold;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
             opacity: 1;
