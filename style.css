@@ -82,7 +82,7 @@
             left: 0px;
             z-index: 10;
             width: auto;
-            height: 40px; /* Adjust logo size */
+            height: 45px; /* Adjust logo size */
             max-width: 25%; /* Prevent logo from being too huge on mobile */
             object-fit: contain;
 
@@ -104,9 +104,9 @@
         
         #clock-container {
             background-color: red;
-            width: 120px;
+            width: 130px;
             
-            height: 40px;
+            height: 45px;
     position:absolute;
      z-index: 11;
   right:0px;
@@ -122,7 +122,7 @@
         
         #display {
             color: white;
-    font-size: 20px; /* Large, readable font size */
+    font-size: 25px; /* Large, readable font size */
             font-weight: bold;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
             opacity: 1;
