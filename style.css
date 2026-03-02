@@ -66,11 +66,11 @@
         /* --- Overlay Logo (Top Right) --- */
         .overlay-logo {
             position: absolute;
-            top: 40px;
-            right: 20px;
+            top: 60px;
+            right: 60px;
             z-index: 15;
-            width: auto;
-            height: 60px; /* Adjust logo size */
+            width: 120px;
+            height: 80px; /* Adjust logo size */
             max-width: 25%; /* Prevent logo from being too huge on mobile */
             object-fit: contain;
 
@@ -82,7 +82,7 @@
             left: 0px;
             z-index: 10;
             width: auto;
-            height: 30px; /* Adjust logo size */
+            height: 35px; /* Adjust logo size */
             max-width: 25%; /* Prevent logo from being too huge on mobile */
             object-fit: contain;
 
@@ -104,9 +104,9 @@
         
         #clock-container {
             background-color: red;
-            width: 100px;
+            width: 110px;
             
-            height: 30px;
+            height: 35px;
     position:absolute;
      z-index: 11;
   right:0px;
@@ -122,7 +122,7 @@
         
         #display {
             color: white;
-    font-size: 15px; /* Large, readable font size */
+    font-size: 20px; /* Large, readable font size */
             font-weight: bold;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
             opacity: 1;
@@ -134,7 +134,7 @@
     
    bottom: 0px;
     width: 100%;
-    height: 70px;
+    height: 80px;
    overflow: hidden;
     position: absolute;
     z-index: 9;
@@ -156,7 +156,7 @@
 
 .slide img {
     width: 100%;
-    height: 70px;
+    height: 80px;
     display: block;
 }
 
